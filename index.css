@@ -1,0 +1,14 @@
+body{
+    height: auto;
+}
+.class1{
+    background-color: antiquewhite;
+    justify-items: center;
+    height: 300px;
+
+}
+.text{
+    justify-items: center;
+    margin: 0px;
+    padding: 50px;
+}
